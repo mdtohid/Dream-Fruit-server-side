@@ -13,7 +13,7 @@
 
 ## how I made this site:
 
-- first I initialize all the neccessery things.
+* first I initialize all the neccessery things.
 * then I try to connect to mongoDb.
 * Made Api and inserted in mongodb.
 * made connection between both and then published to vercel.
